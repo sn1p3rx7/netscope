@@ -14,8 +14,7 @@ A lightweight system and network diagnostic CLI for Linux.
 ## Installation
 
 Clone the repository:
-
-    git clone <REPOSITORY_URL>
+git clone https://github.com/sn1p3rx7/netscope
 
 Enter the project:
 
@@ -25,6 +24,11 @@ Run the installer:
 
     ./install/linux.sh
 
+if no work 
+```bash
+cd netscope && sudo chmod +x./install/linux.sh
+sudo bash ./install/linux.sh
+```
 ## Usage
 
 Start NetScope:
@@ -59,4 +63,7 @@ Available commands:
 Version: 0.1.0
 
 NetScope is currently in early development.
-# netscope
+# No Value Info
+NetScope Using `Python` programing Laungage
+And Using `bash` to Install
+
