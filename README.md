@@ -13,9 +13,10 @@ A lightweight system and network diagnostic CLI for Linux.
 
 ## Installation
 
-Clone the repository:
+Clone the repository
+```bash
 git clone https://github.com/sn1p3rx7/netscope
-
+```
 Enter the project:
 
     cd netscope
