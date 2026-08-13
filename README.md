@@ -25,7 +25,7 @@ Run the installer:
 
     ./install/linux.sh
 
-if no work 
+if no work:
 ```bash
 cd netscope && sudo chmod +x./install/linux.sh
 sudo bash ./install/linux.sh
